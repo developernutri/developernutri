@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Leandro. 
 
-## MY TECHNOLOGIES
+### Technologies
 
 <div style="display: inline; border-bottom: 1px solid black ;">
     <img src="img/javascript.svg" height="30px" width = "40px"alt="JavaScript">
@@ -10,10 +10,13 @@
     <img src="img/new-php-logo.svg" height= "30px" width = "40px"alt="PHP">
 </div>
 
+### Statistics
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <a href="https://github.com/developernutri">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=developernutri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernutri&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!---
 developernutri/developernutri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
